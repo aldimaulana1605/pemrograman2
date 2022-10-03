@@ -1,0 +1,11 @@
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\bin\Debug\Pemrograman2.exe
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\bin\Debug\Pemrograman2.pdb
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\bin\Debug\Pemrograman2.xml
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Form1.resources
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.Resources.resources
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.vbproj.GenerateResource.Cache
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.exe
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.xml
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.pdb
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Debug\Pemrograman2.kalkulator.resources

@@ -1,0 +1,4 @@
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Release\Pemrograman2.Form1.resources
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Release\Pemrograman2.Resources.resources
+C:\Users\LAB 2\Desktop\Aldi Maulana Bahari (2021804088)\Pemrograman2\Pemrograman2\obj\Release\Pemrograman2.vbproj.GenerateResource.Cache
